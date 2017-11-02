@@ -1,0 +1,2456 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "CCCC MS 390",
+  "agent": "",
+  "date": "",
+  "description": "",
+  "attribution": "Provided by the Parker Library, Corpus Christi College, Cambridge",
+  "seeAlso": {
+    "@id": "http://purl-test.stanford.edu/my768zw4807.mods",
+    "profile": "application/mods+xml"
+  },
+  "within": "http://dms-data.stanford.edu/Parker/",
+  "sequences": [
+    {
+      "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/normal",
+      "@type": "sc:Sequence",
+      "label": "Current page order",
+      "canvases": [
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-1",
+          "@type": "sc:Canvas",
+          "label": "f. i R",
+          "height": "8200",
+          "width": "5000",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_i_R_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8200",
+                "width": "5000",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_i_R_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-1"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-1.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-2",
+          "@type": "sc:Canvas",
+          "label": "f. i V",
+          "height": "8176",
+          "width": "4989",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-2",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_i_V_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8176",
+                "width": "4989",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_i_V_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-2"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-2.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-3",
+          "@type": "sc:Canvas",
+          "label": "p. 1",
+          "height": "8130",
+          "width": "4919",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-3",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_001_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8130",
+                "width": "4919",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_001_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-3"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-3.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-4",
+          "@type": "sc:Canvas",
+          "label": "p. 2",
+          "height": "8143",
+          "width": "4978",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-4",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_002_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8143",
+                "width": "4978",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_002_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-4"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-4.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-5",
+          "@type": "sc:Canvas",
+          "label": "p. 3",
+          "height": "8160",
+          "width": "5000",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-5",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_003_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8160",
+                "width": "5000",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_003_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-5"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-5.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-6",
+          "@type": "sc:Canvas",
+          "label": "p. 4",
+          "height": "8154",
+          "width": "4989",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-6",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_004_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8154",
+                "width": "4989",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_004_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-6"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-6.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-7",
+          "@type": "sc:Canvas",
+          "label": "p. 5",
+          "height": "8160",
+          "width": "5019",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-7",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_005_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8160",
+                "width": "5019",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_005_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-7"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-7.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-8",
+          "@type": "sc:Canvas",
+          "label": "p. 6",
+          "height": "8154",
+          "width": "4967",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-8",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_006_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8154",
+                "width": "4967",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_006_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-8"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-8.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-9",
+          "@type": "sc:Canvas",
+          "label": "p. 7",
+          "height": "8240",
+          "width": "5160",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-9",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_007_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8240",
+                "width": "5160",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_007_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-9"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-9.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-10",
+          "@type": "sc:Canvas",
+          "label": "p. 8",
+          "height": "8254",
+          "width": "5111",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-10",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_008_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8254",
+                "width": "5111",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_008_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-10"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-10.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-11",
+          "@type": "sc:Canvas",
+          "label": "p. 9",
+          "height": "8210",
+          "width": "5119",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-11",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_009_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8210",
+                "width": "5119",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_009_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-11"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-11.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-12",
+          "@type": "sc:Canvas",
+          "label": "p. 10",
+          "height": "8242",
+          "width": "5078",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-12",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_010_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8242",
+                "width": "5078",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_010_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-12"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-12.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-13",
+          "@type": "sc:Canvas",
+          "label": "p. 11",
+          "height": "8240",
+          "width": "5139",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-13",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_011_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8240",
+                "width": "5139",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_011_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-13"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-13.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-14",
+          "@type": "sc:Canvas",
+          "label": "p. 12",
+          "height": "8298",
+          "width": "5111",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-14",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_012_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8298",
+                "width": "5111",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_012_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-14"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-14.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-15",
+          "@type": "sc:Canvas",
+          "label": "p. 13",
+          "height": "8280",
+          "width": "5179",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-15",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_013_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8280",
+                "width": "5179",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_013_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-15"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-15.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-16",
+          "@type": "sc:Canvas",
+          "label": "p. 14",
+          "height": "8254",
+          "width": "5100",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-16",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_014_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8254",
+                "width": "5100",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_014_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-16"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-16.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-17",
+          "@type": "sc:Canvas",
+          "label": "p. 15",
+          "height": "8270",
+          "width": "5105",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-17",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_015_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8270",
+                "width": "5105",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_015_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-17"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-17.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-18",
+          "@type": "sc:Canvas",
+          "label": "p. 16",
+          "height": "8276",
+          "width": "5122",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-18",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_016_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8276",
+                "width": "5122",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_016_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-18"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-18.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-19",
+          "@type": "sc:Canvas",
+          "label": "p. 17",
+          "height": "8250",
+          "width": "5049",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-19",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_017_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8250",
+                "width": "5049",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_017_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-19"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-19.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-20",
+          "@type": "sc:Canvas",
+          "label": "p. 18",
+          "height": "8209",
+          "width": "5022",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-20",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_018_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8209",
+                "width": "5022",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_018_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-20"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-20.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-21",
+          "@type": "sc:Canvas",
+          "label": "p. 19",
+          "height": "8260",
+          "width": "5060",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-21",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_019_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8260",
+                "width": "5060",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_019_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-21"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-21.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-22",
+          "@type": "sc:Canvas",
+          "label": "p. 20",
+          "height": "8276",
+          "width": "5078",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-22",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_020_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8276",
+                "width": "5078",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_020_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-22"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-22.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-23",
+          "@type": "sc:Canvas",
+          "label": "p. 21",
+          "height": "8200",
+          "width": "5130",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-23",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_021_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8200",
+                "width": "5130",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_021_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-23"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-23.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-24",
+          "@type": "sc:Canvas",
+          "label": "p. 22",
+          "height": "8176",
+          "width": "5100",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-24",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_022_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8176",
+                "width": "5100",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_022_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-24"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-24.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-25",
+          "@type": "sc:Canvas",
+          "label": "p. 23",
+          "height": "8110",
+          "width": "5090",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-25",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_023_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8110",
+                "width": "5090",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_023_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-25"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-25.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-26",
+          "@type": "sc:Canvas",
+          "label": "p. 24",
+          "height": "8154",
+          "width": "5033",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-26",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_024_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8154",
+                "width": "5033",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_024_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-26"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-26.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-27",
+          "@type": "sc:Canvas",
+          "label": "p. 25",
+          "height": "8190",
+          "width": "5100",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-27",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_025_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8190",
+                "width": "5100",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_025_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-27"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-27.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-28",
+          "@type": "sc:Canvas",
+          "label": "p. 26",
+          "height": "8231",
+          "width": "5044",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-28",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_026_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8231",
+                "width": "5044",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_026_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-28"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-28.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-29",
+          "@type": "sc:Canvas",
+          "label": "p. 27",
+          "height": "8220",
+          "width": "5055",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-29",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_027_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8220",
+                "width": "5055",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_027_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-29"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-29.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-30",
+          "@type": "sc:Canvas",
+          "label": "p. 28",
+          "height": "8276",
+          "width": "5044",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-30",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_028_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8276",
+                "width": "5044",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_028_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-30"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-30.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-31",
+          "@type": "sc:Canvas",
+          "label": "p. 29",
+          "height": "8165",
+          "width": "5066",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-31",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_029_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8165",
+                "width": "5066",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_029_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-31"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-31.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-32",
+          "@type": "sc:Canvas",
+          "label": "p. 30",
+          "height": "8143",
+          "width": "5000",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-32",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_030_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8143",
+                "width": "5000",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_030_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-32"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-32.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-33",
+          "@type": "sc:Canvas",
+          "label": "p. 31",
+          "height": "8231",
+          "width": "5022",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-33",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_031_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8231",
+                "width": "5022",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_031_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-33"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-33.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-34",
+          "@type": "sc:Canvas",
+          "label": "p. 32",
+          "height": "8253",
+          "width": "4967",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-34",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_032_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8253",
+                "width": "4967",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_032_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-34"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-34.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-35",
+          "@type": "sc:Canvas",
+          "label": "p. 33",
+          "height": "8231",
+          "width": "5011",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-35",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_033_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8231",
+                "width": "5011",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_033_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-35"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-35.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-36",
+          "@type": "sc:Canvas",
+          "label": "p. 34",
+          "height": "8232",
+          "width": "5000",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-36",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_034_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8232",
+                "width": "5000",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_034_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-36"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-36.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-37",
+          "@type": "sc:Canvas",
+          "label": "p. 35",
+          "height": "8109",
+          "width": "4967",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-37",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_035_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8109",
+                "width": "4967",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_035_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-37"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-37.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-38",
+          "@type": "sc:Canvas",
+          "label": "p. 36",
+          "height": "8143",
+          "width": "4944",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-38",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_036_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8143",
+                "width": "4944",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_036_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-38"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-38.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-39",
+          "@type": "sc:Canvas",
+          "label": "p. 37",
+          "height": "8010",
+          "width": "4911",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-39",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_037_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8010",
+                "width": "4911",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_037_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-39"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-39.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-40",
+          "@type": "sc:Canvas",
+          "label": "p. 38",
+          "height": "7932",
+          "width": "4867",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-40",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_038_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "7932",
+                "width": "4867",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_038_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-40"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-40.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-41",
+          "@type": "sc:Canvas",
+          "label": "p. 38a",
+          "height": "8100",
+          "width": "5040",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-41",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_038a_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8100",
+                "width": "5040",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_038a_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-41"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-41.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-42",
+          "@type": "sc:Canvas",
+          "label": "p. 39a",
+          "height": "7854",
+          "width": "4977",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-42",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_039a_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "7854",
+                "width": "4977",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_039a_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-42"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-42.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-43",
+          "@type": "sc:Canvas",
+          "label": "p. 39",
+          "height": "7754",
+          "width": "4944",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-43",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_039_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "7754",
+                "width": "4944",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_039_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-43"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-43.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-44",
+          "@type": "sc:Canvas",
+          "label": "p. 40",
+          "height": "7843",
+          "width": "5033",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-44",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_040_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "7843",
+                "width": "5033",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_040_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-44"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-44.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-45",
+          "@type": "sc:Canvas",
+          "label": "p. 41",
+          "height": "8080",
+          "width": "5090",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-45",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_041_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8080",
+                "width": "5090",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_041_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-45"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-45.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-46",
+          "@type": "sc:Canvas",
+          "label": "p. 42",
+          "height": "8143",
+          "width": "5055",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-46",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_042_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8143",
+                "width": "5055",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_042_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-46"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-46.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-47",
+          "@type": "sc:Canvas",
+          "label": "p. 43",
+          "height": "8281",
+          "width": "5010",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-47",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_043_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8281",
+                "width": "5010",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_043_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-47"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-47.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-48",
+          "@type": "sc:Canvas",
+          "label": "p. 44",
+          "height": "8254",
+          "width": "4922",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-48",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_044_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8254",
+                "width": "4922",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_044_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-48"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-48.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-49",
+          "@type": "sc:Canvas",
+          "label": "p. 45",
+          "height": "8230",
+          "width": "4979",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-49",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_045_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8230",
+                "width": "4979",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_045_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-49"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-49.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-50",
+          "@type": "sc:Canvas",
+          "label": "p. 46",
+          "height": "8198",
+          "width": "4956",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-50",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_046_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8198",
+                "width": "4956",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_046_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-50"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-50.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-51",
+          "@type": "sc:Canvas",
+          "label": "p. 47",
+          "height": "8240",
+          "width": "4970",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-51",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_047_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8240",
+                "width": "4970",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_047_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-51"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-51.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-52",
+          "@type": "sc:Canvas",
+          "label": "p. 48",
+          "height": "8231",
+          "width": "4989",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-52",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_048_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8231",
+                "width": "4989",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_048_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-52"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-52.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-53",
+          "@type": "sc:Canvas",
+          "label": "p. 49",
+          "height": "8260",
+          "width": "4960",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-53",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_049_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8260",
+                "width": "4960",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_049_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-53"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-53.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-54",
+          "@type": "sc:Canvas",
+          "label": "p. 50",
+          "height": "8242",
+          "width": "4944",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-54",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_050_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8242",
+                "width": "4944",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_050_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-54"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-54.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-55",
+          "@type": "sc:Canvas",
+          "label": "p. 51",
+          "height": "8280",
+          "width": "4990",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-55",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_051_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8280",
+                "width": "4990",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_051_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-55"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-55.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-56",
+          "@type": "sc:Canvas",
+          "label": "p. 52",
+          "height": "8276",
+          "width": "4978",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-56",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_052_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8276",
+                "width": "4978",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_052_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-56"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-56.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-57",
+          "@type": "sc:Canvas",
+          "label": "p. 53",
+          "height": "8260",
+          "width": "5050",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-57",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_053_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8260",
+                "width": "5050",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_053_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-57"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-57.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-58",
+          "@type": "sc:Canvas",
+          "label": "p. 54",
+          "height": "8220",
+          "width": "4978",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-58",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_054_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8220",
+                "width": "4978",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_054_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-58"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-58.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-59",
+          "@type": "sc:Canvas",
+          "label": "p. 55",
+          "height": "8220",
+          "width": "5060",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-59",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_055_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8220",
+                "width": "5060",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_055_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-59"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-59.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-60",
+          "@type": "sc:Canvas",
+          "label": "p. 56",
+          "height": "8220",
+          "width": "5000",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-60",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_056_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8220",
+                "width": "5000",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_056_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-60"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-60.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-61",
+          "@type": "sc:Canvas",
+          "label": "p. 57",
+          "height": "8251",
+          "width": "5030",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-61",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_057_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8251",
+                "width": "5030",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_057_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-61"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-61.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-62",
+          "@type": "sc:Canvas",
+          "label": "p. 58",
+          "height": "8220",
+          "width": "4944",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-62",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_058_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8220",
+                "width": "4944",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_058_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-62"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-62.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-63",
+          "@type": "sc:Canvas",
+          "label": "p. 59",
+          "height": "8210",
+          "width": "4980",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-63",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_059_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8210",
+                "width": "4980",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_059_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-63"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-63.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-64",
+          "@type": "sc:Canvas",
+          "label": "p. 60",
+          "height": "8187",
+          "width": "4978",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-64",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_060_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8187",
+                "width": "4978",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_060_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-64"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-64.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-65",
+          "@type": "sc:Canvas",
+          "label": "p. 61",
+          "height": "8060",
+          "width": "4330",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-65",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_061_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8060",
+                "width": "4330",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_061_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-65"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-65.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-66",
+          "@type": "sc:Canvas",
+          "label": "p. 62",
+          "height": "8043",
+          "width": "4367",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-66",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_062_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8043",
+                "width": "4367",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_062_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-66"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-66.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-67",
+          "@type": "sc:Canvas",
+          "label": "p. 63",
+          "height": "8100",
+          "width": "4563",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-67",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_063_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8100",
+                "width": "4563",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_063_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-67"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-67.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-68",
+          "@type": "sc:Canvas",
+          "label": "p. 64",
+          "height": "8120",
+          "width": "4556",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-68",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_064_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8120",
+                "width": "4556",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_064_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-68"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-68.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-69",
+          "@type": "sc:Canvas",
+          "label": "p. 65",
+          "height": "8210",
+          "width": "4970",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-69",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_065_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8210",
+                "width": "4970",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_065_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-69"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-69.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-70",
+          "@type": "sc:Canvas",
+          "label": "p. 66",
+          "height": "8187",
+          "width": "4989",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-70",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_066_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8187",
+                "width": "4989",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_066_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-70"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-70.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-71",
+          "@type": "sc:Canvas",
+          "label": "p. 67",
+          "height": "8270",
+          "width": "4999",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-71",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_067_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8270",
+                "width": "4999",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_067_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-71"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-71.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-72",
+          "@type": "sc:Canvas",
+          "label": "p. 68",
+          "height": "8231",
+          "width": "5011",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-72",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_068_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8231",
+                "width": "5011",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_068_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-72"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-72.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-73",
+          "@type": "sc:Canvas",
+          "label": "p. 69",
+          "height": "8240",
+          "width": "5050",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-73",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_069_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8240",
+                "width": "5050",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_069_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-73"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-73.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-74",
+          "@type": "sc:Canvas",
+          "label": "p. 70",
+          "height": "8198",
+          "width": "5078",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-74",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_070_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "8198",
+                "width": "5078",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_070_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-74"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-74.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-75",
+          "@type": "sc:Canvas",
+          "label": "f. c R",
+          "height": "7900",
+          "width": "4680",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-75",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_c_R_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "7900",
+                "width": "4680",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_c_R_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-75"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-75.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-76",
+          "@type": "sc:Canvas",
+          "label": "f. c V",
+          "height": "7955",
+          "width": "4733",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/my768zw4807/imageanno/anno-76",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/my768zw4807/390_c_V_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "7955",
+                "width": "4733",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/my768zw4807%252F390_c_V_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/my768zw4807/canvas/canvas-76"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/my768zw4807/annos/canvas-76.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

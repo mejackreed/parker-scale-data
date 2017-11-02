@@ -1,0 +1,20 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://mejackreed.github.io/parker-scale-data/rx900dd8892/annos/canvas-30.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@id": "beeaeafd4fac047ef904268a36e2d292",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "71ed56e2a6edc165832bce26dac3d3e6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Hello!",
+        "language": "eng"
+      },
+      "on": "http://dms-data.stanford.edu/Parker/rx900dd8892/canvas/canvas-30#xywh=0,0,300,300"
+    }
+  ]
+}

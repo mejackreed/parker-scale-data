@@ -1,0 +1,20 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://mejackreed.github.io/parker-scale-data/jt596cd4140/annos/canvas-604.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@id": "c7dd81d148102f06571c930817841890",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "b4cc54cd42dc7f57c54724a472b8a906",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Hello!",
+        "language": "eng"
+      },
+      "on": "http://dms-data.stanford.edu/Parker/jt596cd4140/canvas/canvas-604#xywh=0,0,300,300"
+    }
+  ]
+}

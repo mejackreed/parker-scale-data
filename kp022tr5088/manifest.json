@@ -1,0 +1,88 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@id": "http://dms-data.stanford.edu/Parker/kp022tr5088/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "CCCC MS 627",
+  "agent": "",
+  "date": "",
+  "description": "",
+  "attribution": "Provided by the Parker Library, Corpus Christi College, Cambridge",
+  "seeAlso": {
+    "@id": "http://purl-test.stanford.edu/kp022tr5088.mods",
+    "profile": "application/mods+xml"
+  },
+  "within": "http://dms-data.stanford.edu/Parker/",
+  "sequences": [
+    {
+      "@id": "http://dms-data.stanford.edu/Parker/kp022tr5088/normal",
+      "@type": "sc:Sequence",
+      "label": "Current page order",
+      "canvases": [
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/kp022tr5088/canvas/canvas-1",
+          "@type": "sc:Canvas",
+          "label": "f. 1 R",
+          "height": "6766",
+          "width": "8996",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/kp022tr5088/imageanno/anno-1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/kp022tr5088/627_001_R_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "6766",
+                "width": "8996",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/kp022tr5088%252F627_001_R_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/kp022tr5088/canvas/canvas-1"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/kp022tr5088/annos/canvas-1.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "http://dms-data.stanford.edu/Parker/kp022tr5088/canvas/canvas-2",
+          "@type": "sc:Canvas",
+          "label": "f. 1 V",
+          "height": "6707",
+          "width": "9007",
+          "resources": [
+            {
+              "@id": "http://dms-data.stanford.edu/Parker/kp022tr5088/imageanno/anno-2",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://stacks.stanford.edu/image/kp022tr5088/627_001_V_TC_46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "6707",
+                "width": "9007",
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/kp022tr5088%252F627_001_V_TC_46",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              },
+              "on": "http://dms-data.stanford.edu/Parker/kp022tr5088/canvas/canvas-2"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://mejackreed.github.io/parker-scale-data/kp022tr5088/annos/canvas-2.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

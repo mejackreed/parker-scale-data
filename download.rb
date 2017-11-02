@@ -10,7 +10,12 @@ CSV.foreach('./druids.csv') do |row|
   puts row.first.inspect
   druid = row.first
   Dir.mkdir(druid) unless Dir.exist?(druid)
-  mani = IIIF::Service.parse(Faraday.get("#{manifest_base}/#{druid}/manifest.json").body)
+  begin
+    mani = IIIF::Service.parse(Faraday.get("#{manifest_base}/#{druid}/manifest.json").body)
+  rescue
+    puts "Failed on #{druid}"
+    next
+  end
   mani.sequences.each do |sequence|
     sequence.canvases.each_with_index do |canvas, i|
       anno_list_id = "#{deploy_base}/#{druid}/annos/canvas-#{i + 1}.json"
@@ -44,6 +49,11 @@ CSV.foreach('./druids.csv') do |row|
     end
   end
   File.open("#{druid}/manifest.json", 'wb') do |f|
-    f.write mani.to_json(pretty: true)
+    begin
+      f.write mani.to_json(pretty: true)
+    rescue => e
+      puts "#{druid} - #{e.inspect}"
+      next
+    end
   end
 end
