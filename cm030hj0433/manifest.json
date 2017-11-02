@@ -1,0 +1,180 @@
+{
+    "@context": "http://www.shared-canvas.org/ns/context.json", 
+    "@id": "http://dms-data.stanford.edu/Parker/cm030hj0433/manifest.json", 
+    "@type": "sc:Manifest", 
+    "label": "CCCC MS 216", 
+    "agent": "", 
+    "date": "", 
+    "description": "", 
+    "attribution": "Provided by the Parker Library, Corpus Christi College, Cambridge", 
+    "seeAlso": {
+        "@id": "http://purl-test.stanford.edu/cm030hj0433.mods", 
+        "profile": "application/mods+xml"
+    }, 
+    "within": "http://dms-data.stanford.edu/Parker/", 
+    "sequences": [
+        {
+            "@id": "http://dms-data.stanford.edu/Parker/cm030hj0433/normal", 
+            "@type": "sc:Sequence", 
+            "label": "Current page order", 
+            "canvases": [
+                {
+                    "@id": "http://dms-data.stanford.edu/Parker/cm030hj0433/canvas/canvas-1", 
+                    "@type": "sc:Canvas", 
+                    "label": "Front outside binding", 
+                    "height": "6012", 
+                    "width": "4306", 
+                    "resources": [
+                        {
+                            "@id": "http://dms-data.stanford.edu/Parker/cm030hj0433/imageanno/anno-1", 
+                            "@type": "oa:Annotation", 
+                            "motivation": "sc:painting", 
+                            "resource": {
+                                "@id": "http://stacks.stanford.edu/image/cm030hj0433/216_fob_TC_46", 
+                                "@type": "dctypes:Image", 
+                                "format": "image/jpeg", 
+                                "height": "6012", 
+                                "width": "4306", 
+                                "service": {
+                                    "@id": "https://stacks.stanford.edu/image/iiif/cm030hj0433%252F216_fob_TC_46", 
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                                }
+                            }, 
+                            "on": "http://dms-data.stanford.edu/Parker/cm030hj0433/canvas/canvas-1"
+                        }
+                    ]
+                }, 
+                {
+                    "@id": "http://dms-data.stanford.edu/Parker/cm030hj0433/canvas/canvas-2", 
+                    "@type": "sc:Canvas", 
+                    "label": "Back outside binding", 
+                    "height": "5710", 
+                    "width": "4384", 
+                    "resources": [
+                        {
+                            "@id": "http://dms-data.stanford.edu/Parker/cm030hj0433/imageanno/anno-2", 
+                            "@type": "oa:Annotation", 
+                            "motivation": "sc:painting", 
+                            "resource": {
+                                "@id": "http://stacks.stanford.edu/image/cm030hj0433/216_bob_TC_46", 
+                                "@type": "dctypes:Image", 
+                                "format": "image/jpeg", 
+                                "height": "5710", 
+                                "width": "4384", 
+                                "service": {
+                                    "@id": "https://stacks.stanford.edu/image/iiif/cm030hj0433%252F216_bob_TC_46", 
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                                }
+                            }, 
+                            "on": "http://dms-data.stanford.edu/Parker/cm030hj0433/canvas/canvas-2"
+                        }
+                    ]
+                }, 
+                {
+                    "@id": "http://dms-data.stanford.edu/Parker/cm030hj0433/canvas/canvas-3", 
+                    "@type": "sc:Canvas", 
+                    "label": "Spine", 
+                    "height": "6984", 
+                    "width": "2177", 
+                    "resources": [
+                        {
+                            "@id": "http://dms-data.stanford.edu/Parker/cm030hj0433/imageanno/anno-3", 
+                            "@type": "oa:Annotation", 
+                            "motivation": "sc:painting", 
+                            "resource": {
+                                "@id": "http://stacks.stanford.edu/image/cm030hj0433/216_SPN_TC_46", 
+                                "@type": "dctypes:Image", 
+                                "format": "image/jpeg", 
+                                "height": "6984", 
+                                "width": "2177", 
+                                "service": {
+                                    "@id": "https://stacks.stanford.edu/image/iiif/cm030hj0433%252F216_SPN_TC_46", 
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                                }
+                            }, 
+                            "on": "http://dms-data.stanford.edu/Parker/cm030hj0433/canvas/canvas-3"
+                        }
+                    ]
+                }, 
+                {
+                    "@id": "http://dms-data.stanford.edu/Parker/cm030hj0433/canvas/canvas-4", 
+                    "@type": "sc:Canvas", 
+                    "label": "Top edge", 
+                    "height": "2214", 
+                    "width": "5454", 
+                    "resources": [
+                        {
+                            "@id": "http://dms-data.stanford.edu/Parker/cm030hj0433/imageanno/anno-4", 
+                            "@type": "oa:Annotation", 
+                            "motivation": "sc:painting", 
+                            "resource": {
+                                "@id": "http://stacks.stanford.edu/image/cm030hj0433/216_TFE_TC_46", 
+                                "@type": "dctypes:Image", 
+                                "format": "image/jpeg", 
+                                "height": "2214", 
+                                "width": "5454", 
+                                "service": {
+                                    "@id": "https://stacks.stanford.edu/image/iiif/cm030hj0433%252F216_TFE_TC_46", 
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                                }
+                            }, 
+                            "on": "http://dms-data.stanford.edu/Parker/cm030hj0433/canvas/canvas-4"
+                        }
+                    ]
+                }, 
+                {
+                    "@id": "http://dms-data.stanford.edu/Parker/cm030hj0433/canvas/canvas-5", 
+                    "@type": "sc:Canvas", 
+                    "label": "Foredge", 
+                    "height": "7080", 
+                    "width": "2142", 
+                    "resources": [
+                        {
+                            "@id": "http://dms-data.stanford.edu/Parker/cm030hj0433/imageanno/anno-5", 
+                            "@type": "oa:Annotation", 
+                            "motivation": "sc:painting", 
+                            "resource": {
+                                "@id": "http://stacks.stanford.edu/image/cm030hj0433/216_SFE_TC_46", 
+                                "@type": "dctypes:Image", 
+                                "format": "image/jpeg", 
+                                "height": "7080", 
+                                "width": "2142", 
+                                "service": {
+                                    "@id": "https://stacks.stanford.edu/image/iiif/cm030hj0433%252F216_SFE_TC_46", 
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                                }
+                            }, 
+                            "on": "http://dms-data.stanford.edu/Parker/cm030hj0433/canvas/canvas-5"
+                        }
+                    ]
+                }, 
+                {
+                    "@id": "http://dms-data.stanford.edu/Parker/cm030hj0433/canvas/canvas-6", 
+                    "@type": "sc:Canvas", 
+                    "label": "Bottom edge", 
+                    "height": "2193", 
+                    "width": "5472", 
+                    "resources": [
+                        {
+                            "@id": "http://dms-data.stanford.edu/Parker/cm030hj0433/imageanno/anno-6", 
+                            "@type": "oa:Annotation", 
+                            "motivation": "sc:painting", 
+                            "resource": {
+                                "@id": "http://stacks.stanford.edu/image/cm030hj0433/216_BFE_TC_46", 
+                                "@type": "dctypes:Image", 
+                                "format": "image/jpeg", 
+                                "height": "2193", 
+                                "width": "5472", 
+                                "service": {
+                                    "@id": "https://stacks.stanford.edu/image/iiif/cm030hj0433%252F216_BFE_TC_46", 
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                                }
+                            }, 
+                            "on": "http://dms-data.stanford.edu/Parker/cm030hj0433/canvas/canvas-6"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
